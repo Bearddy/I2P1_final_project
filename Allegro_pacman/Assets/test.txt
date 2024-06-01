@@ -1,0 +1,31 @@
+30 36
+####################################
+#PPPPPPPPPPPPPPPPPP###PPPPPPPPP#####
+#P####P###########PPPPP#######PPPPP#
+#P####P#PPPPPPPPPPP###PPPPP# #P###P#
+#PPPPPPPP#########PPPPP#P#P###P# #P#
+#P#####P###      ###P###P#P#P#P# #P#
+#P#   #PPP#        #P###P#P#P#P# #P#
+#P#   #P#P#        #P###P#PPP#P# #P#
+#P#####P#P##########P###P#####P###P#
+#PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP#
+#P#######P########P##BBB##P##P####P#
+#P###  ##P########P##BGB##P##P#P##P#
+#P#### ##PPPP##PPPP##BBB##P##P#P##P#
+#P## ####P##P##P##P#######P##P#P##P#
+#P##  ###P##P##P##P#######P##PPP##P#
+#P##   ##P##P##P##P##   ##P#######P#
+#P#######P##P##P##P#######P#######P#
+#PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP#
+#P######P###P##########P######P###P#
+#P#    #P###P#####   #PPPPPPPPP# #P#
+#P######PPPPPPPPP#####P###P###P# #P#
+#PPPPPPPP#######PPPPPPP# #P# #P# #P#
+#P######P#     #####P### #P# #P###P#
+#P#    #P###########P#####P###PPPPP#
+#P######P#PPPPPPPPPPPPPPPPPPP#P###P#
+#PPPPPPPPPP#########P#######P#P# #P#
+#P#######P##########P#     #PPP# #P#
+#P#######PPPPPPPPPPPP#######P#P###P#
+#PPPPPPPPP##########PPPPPPPPP#PPPPP#
+####################################
